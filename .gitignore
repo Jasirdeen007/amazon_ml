@@ -1,0 +1,41 @@
+# Data directories - DO NOT COMMIT
+data/
+*.tsv
+*.csv
+*.db
+*.db-journal
+*.pkl
+
+# Raw datasets
+6ab10eb3b23ba_student_resource/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
